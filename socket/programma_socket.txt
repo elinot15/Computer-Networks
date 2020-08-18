@@ -1,0 +1,6 @@
+Java Socket: manipolazione di indirizzi; creazione di una connessione TCP. 	Lucidi Prof.ssa Pagani disponibili in Materiale didattico.
+9 dic. 2019 	Java Socket: marshalling e scambio dati. 	Lucidi Prof.ssa Pagani disponibili in Materiale didattico.
+13 dic. 2019 	Java Socket: servizio connection-less. 	Lucidi Prof.ssa Pagani disponibili in Materiale didattico.
+16 dic. 2019 	Socket: server iterativi e concorrenti. 	Lucidi Prof.ssa Pagani disponibili in Materiale didattico.
+20 dic. 2019 	Socket: server multi-thread. 	Lucidi Prof.ssa Pagani disponibili in Materiale didattico.
+17 gen. 2020 	Simulazione di esame - parte Packet Tracer
